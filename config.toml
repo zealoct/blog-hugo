@@ -1,0 +1,15 @@
+baseurl = "http://yourSiteHere"
+languageCode = "zh-cn"
+title = "Zea's"
+disqusShortname = "hanjc"
+
+[author]
+	name = "Zea's"
+
+
+[params]
+	github = "http://github.com/zealoct"
+    linkedin = ""
+    googleplus = ""
+    facebook = ""
+    twitter = "@zealoct"

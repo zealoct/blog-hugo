@@ -1,6 +1,7 @@
 +++
 title = "Markdown Notes"
 date = "2014-01-03T14:16:17+08:00"
+comments = true
 +++
 
 

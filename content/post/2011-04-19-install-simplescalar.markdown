@@ -1,6 +1,7 @@
 +++
 title = "Install SimpleScalar on Ubuntu 10.10 with Gcc-4.4"
 date = "2011-04-19T18:36:02+08:00"
+comments = true
 +++
 
 The project 1 of computer architecture is based on *SimplesSalar3.0*, and it is recommended to finished this project on *Redhat 9*, otherwise there would be some version problems. But I am used to writing code in my ubuntu and do not wanna reset up my whole development environment on *Redhat*. BTW, installing a new system is rather troublesome even on vm, I decided to install *SimplesSalar* on my ubuntu(it turns out to be much more troublesome than installing a new one…)

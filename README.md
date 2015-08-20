@@ -5,3 +5,4 @@ Notes
 
 ``` bash
 hugo server --theme=hyde-x --buildDrafts
+```

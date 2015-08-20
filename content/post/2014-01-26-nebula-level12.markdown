@@ -17,7 +17,8 @@ To do this level, log in as the *level12* account with the password *level12*. F
 
 ### Source code
 
-``` lua /home/flag12/flag12.lua
+``` lua
+-- /home/flag12/flag12.lua 
 local socketlocal socket = require("socket")
 local server = assert(socket.bind("127.0.0.1", 50001))
 
@@ -71,7 +72,8 @@ puts "#{ret}"
 
 Remenber the piece of C code we used to drop privilege? Here it is again:
 
-``` c /tmp/drop.c
+``` c 
+/* /tmp/drop.c */
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>

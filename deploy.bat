@@ -13,5 +13,8 @@ cd public/
 git add .
 git commit -am "Site updated"
 
+echo "Check we are on the right remote"
+git remote show origin
+
 echo "Pushing to Github"
 git push

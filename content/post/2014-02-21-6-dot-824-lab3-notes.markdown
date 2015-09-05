@@ -1,7 +1,7 @@
 ---
 title: "6.824-lab3-notes"
 date: 2014-02-21 14:08:02+08:00
-published: false
+draft: true
 categories: 
 - Exercises
 - Distributed Systems

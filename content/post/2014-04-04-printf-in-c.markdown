@@ -1,7 +1,7 @@
 ---
 title: "printf_in_c"
 date: 2014-04-04 21:48:15+08:00
-published: false
+draft: true
 categories: 
 ---
 

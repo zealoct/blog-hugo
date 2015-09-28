@@ -1,0 +1,7 @@
++++
+date = "2015-09-28T16:59:37+08:00"
+draft = true
+title = "DNN BP(BackPropagation) 算法"
+keywords = ["Machine Learning", "Neural Networks", "DNN"]
++++
+

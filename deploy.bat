@@ -18,3 +18,5 @@ git remote show origin
 
 echo "Pushing to Github"
 git push
+
+cd ..

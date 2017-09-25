@@ -1,3 +1,6 @@
 [submodule "themes/hugo-classic"]
 	path = themes/hugo-classic
 	url = git@github.com:goodroot/hugo-classic.git
+[submodule "zealoct.github.io"]
+	path = zealoct.github.io
+	url = https://github.com/zealoct/zealoct.github.io

@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "http://zealoct.github.io/"
 languageCode = "zh-cn"
 title = "Zea's"
 disqusShortName = "hanjc"

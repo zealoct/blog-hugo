@@ -2,7 +2,9 @@
 title: "LLVM Encoding Asm Label"
 date: 2018-03-14T14:40:01+08:00
 draft: false
-categories: ["llvm", "compiler"]
+tags:
+- llvm
+- compiler
 ---
 
 汇编代码中的Label标记了一段汇编代码的起始地址，主要用在分支、跳转类的指令中，

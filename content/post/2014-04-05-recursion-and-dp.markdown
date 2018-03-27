@@ -2,7 +2,7 @@
 title: "简单的递归和动态规划"
 date: 2014-04-05 13:31:50+08:00
 comments: true
-categories: 
+tags: 
 - Algorithm
 ---
 

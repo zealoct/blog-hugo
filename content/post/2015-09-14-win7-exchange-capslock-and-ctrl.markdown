@@ -2,7 +2,7 @@
 date = "2015-09-14T16:51:18+08:00"
 draft = false
 title = "[转]windows下交换CapsLock和Ctrl键"
-categories = ["Windows", "Efficiency"]
+tags = ["Windows", "Efficiency"]
 +++
 
 **更新**：原文中交换的是Capslock键与左Ctrl键，实际中发现这样交换也不是很好用，

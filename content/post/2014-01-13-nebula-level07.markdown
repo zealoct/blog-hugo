@@ -1,7 +1,7 @@
 ---
 title: "Exploit Exercises - Nebula Level 07"
 date: 2014-01-13 15:49:10+08:00
-categories: 
+tags: 
 - Security
 - Exercises
 - Nebula

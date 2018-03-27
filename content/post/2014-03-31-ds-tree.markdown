@@ -2,7 +2,7 @@
 title: "ds-tree"
 date: 2014-03-31 21:21:33+08:00
 draft: true
-categories: 
+tags: 
 - Algorithm
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "如何写 Ubuntu 的 Framebuffer"
 date: 2014-05-20 20:26:25+08:00
-categories: 
+tags: 
 - Ubuntu
 - Linux
 - Android

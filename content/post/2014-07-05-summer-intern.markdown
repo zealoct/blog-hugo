@@ -1,7 +1,7 @@
 ---
 title: "暑期实习开始"
 date: 2014-07-05 21:44:53-07:00
-categories: 
+tags: 
 - Life
 ---
 

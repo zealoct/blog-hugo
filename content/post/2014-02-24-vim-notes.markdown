@@ -3,6 +3,7 @@ title: "Vim Efficiency Notes"
 date: 2014-02-24 15:00:00+08:00
 categories: 
 - Notes
+tags:
 - Vim
 ---
 

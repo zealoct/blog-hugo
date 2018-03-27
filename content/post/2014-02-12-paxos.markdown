@@ -3,6 +3,7 @@ title: "Notes on Paxos Made Simple"
 date: 2014-02-12 16:21:02+08:00
 categories:
 - Notes
+tags:
 - Distributed Systems
 ---
 

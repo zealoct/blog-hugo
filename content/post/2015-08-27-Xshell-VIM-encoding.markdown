@@ -2,7 +2,7 @@
 date = "2015-08-27T18:31:48+08:00"
 draft = false
 title = "Linux下VIM编码设置——解决中文乱码问题"
-categories = ["Linux", "SSH", "Vim", "Windows"]
+tags = ["Linux", "SSH", "Vim", "Windows"]
 +++
 
 日常工作与生活中经常需要在Windows下通过Xshell、Putty等SSH客户端远程连接Linux服务器，

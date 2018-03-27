@@ -3,7 +3,7 @@
 title: "Windows 下使用 Cocos2d-x 3.x + Lua 开发基础"
 date: 2014-07-06 10:59:17-07:00
 comments: true
-categories: 
+tags: 
 - Cocos2d-x
 - Lua 
 ---

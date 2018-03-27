@@ -2,7 +2,7 @@
 title: "6.824 Lab1 MapReduce Notes"
 date: 2014-04-09 22:01:37+08:00
 draft: true
-categories: 
+tags: 
 - Exercises
 - Distributed Systems
 ---

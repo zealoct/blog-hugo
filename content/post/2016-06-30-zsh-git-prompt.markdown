@@ -1,7 +1,7 @@
 +++
 date = "2016-06-30T17:46:35+08:00"
 title = "Zsh git prompt"
-categories = ["zsh", "git"]
+tags = ["zsh", "git"]
 +++
 
 之前在Zsh中手动添加了[zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt)插件，
